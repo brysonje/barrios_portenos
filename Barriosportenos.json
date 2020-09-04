@@ -969,7 +969,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Name": "Constitucion"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3076,7 +3083,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Name": "San Telmo"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4771,7 +4785,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Name": "Flores"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5004,7 +5025,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Name": "La Paternal"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5553,7 +5581,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Name": "Parque Patricios"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
