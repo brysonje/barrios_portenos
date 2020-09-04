@@ -476,7 +476,7 @@
       "properties": {
         "stroke": "#555555",
         "stroke-width": 2,
-        "stroke-opacity": 1,
+        "stroke-opacity": 0.5,
         "fill": "#555555",
         "fill-opacity": 0.5,
         "Name": "Saavedra"
@@ -571,7 +571,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Name": "Barracas"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1077,7 +1084,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Name": "Monserrat"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1272,7 +1286,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Name": "San Nicolas"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1471,7 +1492,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Name": "Retiro"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1642,7 +1670,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Name": "Recoleta"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1893,7 +1928,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Name": "Palermo"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2556,7 +2598,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Name": "Belgrano"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3163,7 +3212,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#555555",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "Name": "Villa Riachuelo"
       },
       "geometry": {
         "type": "Polygon",
@@ -3227,7 +3277,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Name": "Villa Lugano"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3342,7 +3399,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Name": "Mataderos"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3429,7 +3493,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Name": "Liniers"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3564,7 +3635,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Name": "Versalles"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3671,7 +3749,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Name": "Villa Real"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3726,7 +3811,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Name": "Villa Devoto"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3837,7 +3929,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Name": "Villa Pueyrredon"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4366,7 +4465,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Name": "Nueva Pompeya"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5013,7 +5119,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Name": "Villa Ortuzar"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5116,7 +5229,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Name": "Balvanera"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5267,7 +5387,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Name": "La Boca"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5633,7 +5760,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Name": "Caballito"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6520,7 +6654,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Name": "Villa Luro"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
