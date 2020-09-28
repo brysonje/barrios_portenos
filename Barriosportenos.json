@@ -9,7 +9,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Nuñez"
+        "Name": "NUÑEZ"
       },
       "geometry": {
         "type": "Polygon",
@@ -479,7 +479,7 @@
         "stroke-opacity": 0.5,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Saavedra"
+        "Name": "SAAVEDRA"
       },
       "geometry": {
         "type": "Polygon",
@@ -577,7 +577,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Barracas"
+        "Name": "BARRACAS"
       },
       "geometry": {
         "type": "Polygon",
@@ -975,7 +975,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Constitucion"
+        "Name": "CONSTITUCION"
       },
       "geometry": {
         "type": "Polygon",
@@ -1097,7 +1097,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Monserrat"
+        "Name": "MONSERRAT"
       },
       "geometry": {
         "type": "Polygon",
@@ -1299,7 +1299,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "San Nicolas"
+        "Name": "SAN NICOLAS"
       },
       "geometry": {
         "type": "Polygon",
@@ -1505,7 +1505,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Retiro"
+        "Name": "RETIRO"
       },
       "geometry": {
         "type": "Polygon",
@@ -1683,7 +1683,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Recoleta"
+        "Name": "RECOLETA"
       },
       "geometry": {
         "type": "Polygon",
@@ -1941,7 +1941,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Palermo"
+        "Name": "PALERMO"
       },
       "geometry": {
         "type": "Polygon",
@@ -2611,7 +2611,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Belgrano"
+        "Name": "BELGRANO"
       },
       "geometry": {
         "type": "Polygon",
@@ -3089,7 +3089,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "San Telmo"
+        "Name": "SAN TELMO"
       },
       "geometry": {
         "type": "Polygon",
@@ -3227,7 +3227,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Villa Riachuelo"
+        "Name": "VILLA RIACHUELO"
       },
       "geometry": {
         "type": "Polygon",
@@ -3297,7 +3297,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Villa Lugano"
+        "Name": "VILLA LUGANO"
       },
       "geometry": {
         "type": "Polygon",
@@ -3419,7 +3419,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Mataderos"
+        "Name": "MATADEROS"
       },
       "geometry": {
         "type": "Polygon",
@@ -3513,7 +3513,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Liniers"
+        "Name": "LINIERS"
       },
       "geometry": {
         "type": "Polygon",
@@ -3655,7 +3655,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Versalles"
+        "Name": "VERSALLES"
       },
       "geometry": {
         "type": "Polygon",
@@ -3769,7 +3769,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Villa Real"
+        "Name": "VILLA REAL"
       },
       "geometry": {
         "type": "Polygon",
@@ -3831,7 +3831,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Villa Devoto"
+        "Name": "VILLA DEVOTO"
       },
       "geometry": {
         "type": "Polygon",
@@ -3949,7 +3949,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Villa Pueyrredon"
+        "Name": "VILLA PUEYRREDON"
       },
       "geometry": {
         "type": "Polygon",
@@ -4059,7 +4059,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Villa Urquiza"
+        "Name": "VILLA URQUIZA"
       },
       "geometry": {
         "type": "Polygon",
@@ -4193,7 +4193,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Coghlan"
+        "Name": "COGHLAN"
       },
       "geometry": {
         "type": "Polygon",
@@ -4291,7 +4291,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Villa Soldati"
+        "Name": "VILLA SOLDATI"
       },
       "geometry": {
         "type": "Polygon",
@@ -4485,7 +4485,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Nueva Pompeya"
+        "Name": "NUEVA POMPEYA"
       },
       "geometry": {
         "type": "Polygon",
@@ -4791,7 +4791,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Flores"
+        "Name": "FLORES"
       },
       "geometry": {
         "type": "Polygon",
@@ -4953,7 +4953,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Villa General Mitre"
+        "Name": "VILLA GRAL. MITRE"
       },
       "geometry": {
         "type": "Polygon",
@@ -5031,7 +5031,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "La Paternal"
+        "Name": "PATERNAL"
       },
       "geometry": {
         "type": "Polygon",
@@ -5153,7 +5153,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Villa Ortuzar"
+        "Name": "VILLA ORTUZAR"
       },
       "geometry": {
         "type": "Polygon",
@@ -5263,7 +5263,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Balvanera"
+        "Name": "BALVANERA"
       },
       "geometry": {
         "type": "Polygon",
@@ -5421,7 +5421,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "La Boca"
+        "Name": "BOCA"
       },
       "geometry": {
         "type": "Polygon",
@@ -5587,7 +5587,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Parque Patricios"
+        "Name": "PARQUE PATRICIOS"
       },
       "geometry": {
         "type": "Polygon",
@@ -5801,7 +5801,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Caballito"
+        "Name": "CABALLITO"
       },
       "geometry": {
         "type": "Polygon",
@@ -5963,7 +5963,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Boedo"
+        "Name": "BOEDO"
       },
       "geometry": {
         "type": "Polygon",
@@ -6117,7 +6117,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Parque Chas"
+        "Name": "PARQUE CHAS"
       },
       "geometry": {
         "type": "Polygon",
@@ -6207,7 +6207,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Villa del Parque"
+        "Name": "VILLA DEL PARQUE"
       },
       "geometry": {
         "type": "Polygon",
@@ -6333,7 +6333,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Velez Sarsfield"
+        "Name": "VELEZ SARSFIELD"
       },
       "geometry": {
         "type": "Polygon",
@@ -6471,7 +6471,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Villa Santa Rita"
+        "Name": "VILLA SANTA RITA"
       },
       "geometry": {
         "type": "Polygon",
@@ -6581,7 +6581,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Monte Castro"
+        "Name": "MONTE CASTRO"
       },
       "geometry": {
         "type": "Polygon",
@@ -6695,7 +6695,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Villa Luro"
+        "Name": "VILLA LURO"
       },
       "geometry": {
         "type": "Polygon",
@@ -6825,7 +6825,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Villa Crespo"
+        "Name": "VILLA CRESPO"
       },
       "geometry": {
         "type": "Polygon",
@@ -6955,7 +6955,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "San Cristobal"
+        "Name": "SAN CRISTOBAL"
       },
       "geometry": {
         "type": "Polygon",
@@ -7093,7 +7093,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Almagro"
+        "Name": "ALMAGRO"
       },
       "geometry": {
         "type": "Polygon",
@@ -7263,7 +7263,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Chacarita"
+        "Name": "CHACARITA"
       },
       "geometry": {
         "type": "Polygon",
@@ -7453,7 +7453,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Colegiales"
+        "Name": "COLEGIALES"
       },
       "geometry": {
         "type": "Polygon",
@@ -7607,7 +7607,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Agronomia"
+        "Name": "AGRONOMIA"
       },
       "geometry": {
         "type": "Polygon",
@@ -7689,7 +7689,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Floresta"
+        "Name": "FLORESTA"
       },
       "geometry": {
         "type": "Polygon",
@@ -7799,7 +7799,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Parque Avellaneda"
+        "Name": "PARQUE AVELLANEDA"
       },
       "geometry": {
         "type": "Polygon",
@@ -7913,7 +7913,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Parque Chacabuco"
+        "Name": "PARQUE CHACABUCO"
       },
       "geometry": {
         "type": "Polygon",
@@ -8047,7 +8047,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Name": "Puerto Madero"
+        "Name": "PUERTO MADERO"
       },
       "geometry": {
         "type": "Polygon",
